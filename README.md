@@ -1,4 +1,4 @@
-# MAST20005-A1A2A3A4
+# MAST30027-A1A2A3A4
 ## Assignment 1, 2, 3 and 4 of MAST30027 Modern Applied Statistics at University of Melbourne
 
 Created: Semester 2 2022
